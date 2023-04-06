@@ -3,13 +3,11 @@
 
 This script is used to convert the mp3 files which are present in a folder to wav files in a different folder.
 
----
 
 ## Motivation
 
 Internshala assesment
 
----
 
 ## Dependencies
 - [Python](https://python.org)
@@ -18,7 +16,6 @@ Internshala assesment
 
 - [ffmpeg](https://ffmpeg.org/)
 
----
 
 ## Pydub Installation
 
@@ -32,7 +29,6 @@ Internshala assesment
 
 - The pydub library will be installed.
 
----
 
 ## ffmpeg Installation
 
@@ -42,7 +38,6 @@ Internshala assesment
 
 ![path](images/path.jpg)
 
----
 
 ## How to use the script
 
@@ -75,7 +70,6 @@ The image shows the successful conversion of the mp3 files in the folder.
 
 _**Note** : In the example i have used copies of the same mp3 audio file to dempnstrate the conversion of more than one mp3 file._
 
----
 
 ## License
 
