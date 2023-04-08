@@ -68,7 +68,7 @@ The first argument after the mp3_to_wav.py is the folder of the mp3 files and th
 
 The image shows the successful conversion of the mp3 files in the folder.
 
-_**Note** : In the example i have used copies of the same mp3 audio file to dempnstrate the conversion of more than one mp3 file._
+_**Note** : In the example i have used copies of the same mp3 audio file to demonstrate the conversion of more than one mp3 file._
 
 
 ## License
